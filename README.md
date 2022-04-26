@@ -5,5 +5,3 @@
 - 📫 You can reach me at vinit30@gmail.com
 
 ![Vinitvh GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinitvh&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
