@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinit</h1>
-<h3 align="center">Fullstack developer</h3>
+<h3 align="center">Web developer</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinitvh" alt="vinitvh" /></a> </p>
 
