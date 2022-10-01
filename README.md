@@ -23,3 +23,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinitvh&" alt="vinitvh" /></p>
 
+[![@vinitvh's Holopin board](https://holopin.io/api/user/board?user=vinitvh)](https://holopin.io/@vinitvh)
+
