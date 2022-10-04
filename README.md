@@ -21,11 +21,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinitvh&show_icons=true&locale=en&layout=compact" alt="vinitvh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinitvh&show_icons=true&locale=en" alt="vinitvh" /></p>
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinitvh&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Vinitvh)  
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinitvh&" alt="vinitvh" /></p>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Vinitvh)  
 
