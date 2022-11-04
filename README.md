@@ -23,5 +23,3 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Vinitvh&theme=dark)](https://git.io/streak-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Vinitvh)  
-
