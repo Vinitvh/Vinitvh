@@ -1,5 +1,3 @@
-[![@vinitvh's Holopin board](https://holopin.io/api/user/board?user=vinitvh)](https://holopin.io/@vinitvh)
-
 <h1 align="center">Hi 👋, I'm Vinit</h1>
 <h3 align="center">Web developer</h3>
 
